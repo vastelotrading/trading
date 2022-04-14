@@ -1,0 +1,9 @@
+WEBHOOK_PASSPHRASE = "United22"
+
+API_KEY = 'Zg8gyoOONzoLCiLU36J893Bnd5SQCMkHo8Ux1RXCjWz08D5CjeW7qYqDdnfyjD6k'
+API_SECRET = 'tET2ydGSVph5zFpNmQkan2h3qEWNb9a7XzCoCryeKOjB0i7oG1GAJadZVhlq9YGe'
+
+PERCENT_AMOUNT = 0.1 #10% of account balance
+LEVERAGE = 25 #leverage
+TP = 0.009 #9% TP
+SL = 0.035 #3.5% SL
